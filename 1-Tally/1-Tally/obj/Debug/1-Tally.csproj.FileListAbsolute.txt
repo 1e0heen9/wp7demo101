@@ -1,0 +1,13 @@
+G:\wp7_ws\wp7demo101\1-Tally\1-Tally\obj\Debug\ResolveAssemblyReference.cache
+G:\wp7_ws\wp7demo101\1-Tally\1-Tally\obj\Debug\App.g.i.cs
+G:\wp7_ws\wp7demo101\1-Tally\1-Tally\obj\Debug\MainPage.g.i.cs
+G:\wp7_ws\wp7demo101\1-Tally\1-Tally\obj\Debug\1-Tally.g.resources
+G:\wp7_ws\wp7demo101\1-Tally\1-Tally\Bin\Debug\ApplicationIcon.png
+G:\wp7_ws\wp7demo101\1-Tally\1-Tally\Bin\Debug\Background.png
+G:\wp7_ws\wp7demo101\1-Tally\1-Tally\Bin\Debug\1-Tally.dll
+G:\wp7_ws\wp7demo101\1-Tally\1-Tally\Bin\Debug\1-Tally.pdb
+G:\wp7_ws\wp7demo101\1-Tally\1-Tally\Bin\Debug\AppManifest.xaml
+G:\wp7_ws\wp7demo101\1-Tally\1-Tally\Bin\Debug\_1_Tally.xap
+G:\wp7_ws\wp7demo101\1-Tally\1-Tally\obj\Debug\1-Tally.dll
+G:\wp7_ws\wp7demo101\1-Tally\1-Tally\obj\Debug\1-Tally.pdb
+G:\wp7_ws\wp7demo101\1-Tally\1-Tally\obj\Debug\XapCacheFile.xml
