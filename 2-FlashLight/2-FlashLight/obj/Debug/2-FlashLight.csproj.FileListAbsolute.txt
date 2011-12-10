@@ -1,0 +1,13 @@
+G:\wp7_ws\wp7demo101\2-FlashLight\2-FlashLight\Bin\Debug\ApplicationIcon.png
+G:\wp7_ws\wp7demo101\2-FlashLight\2-FlashLight\Bin\Debug\Background.png
+G:\wp7_ws\wp7demo101\2-FlashLight\2-FlashLight\Bin\Debug\2-FlashLight.dll
+G:\wp7_ws\wp7demo101\2-FlashLight\2-FlashLight\Bin\Debug\2-FlashLight.pdb
+G:\wp7_ws\wp7demo101\2-FlashLight\2-FlashLight\Bin\Debug\AppManifest.xaml
+G:\wp7_ws\wp7demo101\2-FlashLight\2-FlashLight\Bin\Debug\_2_FlashLight.xap
+G:\wp7_ws\wp7demo101\2-FlashLight\2-FlashLight\obj\Debug\ResolveAssemblyReference.cache
+G:\wp7_ws\wp7demo101\2-FlashLight\2-FlashLight\obj\Debug\App.g.i.cs
+G:\wp7_ws\wp7demo101\2-FlashLight\2-FlashLight\obj\Debug\MainPage.g.i.cs
+G:\wp7_ws\wp7demo101\2-FlashLight\2-FlashLight\obj\Debug\2-FlashLight.g.resources
+G:\wp7_ws\wp7demo101\2-FlashLight\2-FlashLight\obj\Debug\2-FlashLight.dll
+G:\wp7_ws\wp7demo101\2-FlashLight\2-FlashLight\obj\Debug\2-FlashLight.pdb
+G:\wp7_ws\wp7demo101\2-FlashLight\2-FlashLight\obj\Debug\XapCacheFile.xml

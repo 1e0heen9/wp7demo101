@@ -1,0 +1,11 @@
+﻿<xapCache source="G:\wp7_ws\wp7demo101\2-FlashLight\2-FlashLight\Bin\Debug\_2_FlashLight.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="2011/12/10 21:50:45">
+  <file source="G:\wp7_ws\wp7demo101\2-FlashLight\2-FlashLight\Bin\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="2011/12/10 21:50:45" />
+  <file source="G:\wp7_ws\wp7demo101\2-FlashLight\2-FlashLight\Background.png" archivePath="Background.png" lastWriteTime="2011/12/10 21:49:58" />
+  <file source="G:\wp7_ws\wp7demo101\2-FlashLight\2-FlashLight\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="2011/12/10 21:49:58" />
+  <file source="G:\wp7_ws\wp7demo101\2-FlashLight\2-FlashLight\obj\Debug\2-FlashLight.dll" archivePath="2-FlashLight.dll" lastWriteTime="2011/12/10 21:50:45" />
+  <file source="G:\wp7_ws\wp7demo101\2-FlashLight\2-FlashLight\Images\cancel.png" archivePath="Images\cancel.png" lastWriteTime="2011/12/10 21:50:20" />
+  <file source="G:\wp7_ws\wp7demo101\2-FlashLight\2-FlashLight\Images\sos.png" archivePath="Images\sos.png" lastWriteTime="2011/12/10 21:50:20" />
+  <file source="G:\wp7_ws\wp7demo101\2-FlashLight\2-FlashLight\Images\strobe.png" archivePath="Images\strobe.png" lastWriteTime="2011/12/10 21:50:20" />
+  <file source="G:\wp7_ws\wp7demo101\2-FlashLight\2-FlashLight\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="2011/12/10 21:49:58" />
+  <file source="G:\wp7_ws\wp7demo101\2-FlashLight\2-FlashLight\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="2011/12/10 21:50:45" />
+</xapCache>
