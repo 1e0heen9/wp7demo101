@@ -1,0 +1,5 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="4-StopWatch" EntryPointType="_4_StopWatch.App" RuntimeVersion="3.0.40624.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="4-StopWatch" Source="4-StopWatch.dll" />
+  </Deployment.Parts>
+</Deployment>

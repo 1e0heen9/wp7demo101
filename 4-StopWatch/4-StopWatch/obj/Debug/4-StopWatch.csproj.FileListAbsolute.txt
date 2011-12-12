@@ -1,0 +1,13 @@
+G:\wp7_ws\wp7demo101\4-StopWatch\4-StopWatch\Bin\Debug\ApplicationIcon.png
+G:\wp7_ws\wp7demo101\4-StopWatch\4-StopWatch\Bin\Debug\Background.png
+G:\wp7_ws\wp7demo101\4-StopWatch\4-StopWatch\Bin\Debug\4-StopWatch.dll
+G:\wp7_ws\wp7demo101\4-StopWatch\4-StopWatch\Bin\Debug\4-StopWatch.pdb
+G:\wp7_ws\wp7demo101\4-StopWatch\4-StopWatch\obj\Debug\ResolveAssemblyReference.cache
+G:\wp7_ws\wp7demo101\4-StopWatch\4-StopWatch\obj\Debug\App.g.i.cs
+G:\wp7_ws\wp7demo101\4-StopWatch\4-StopWatch\obj\Debug\MainPage.g.i.cs
+G:\wp7_ws\wp7demo101\4-StopWatch\4-StopWatch\obj\Debug\4-StopWatch.g.resources
+G:\wp7_ws\wp7demo101\4-StopWatch\4-StopWatch\obj\Debug\4-StopWatch.dll
+G:\wp7_ws\wp7demo101\4-StopWatch\4-StopWatch\obj\Debug\4-StopWatch.pdb
+G:\wp7_ws\wp7demo101\4-StopWatch\4-StopWatch\Bin\Debug\AppManifest.xaml
+G:\wp7_ws\wp7demo101\4-StopWatch\4-StopWatch\Bin\Debug\_4_StopWatch.xap
+G:\wp7_ws\wp7demo101\4-StopWatch\4-StopWatch\obj\Debug\XapCacheFile.xml

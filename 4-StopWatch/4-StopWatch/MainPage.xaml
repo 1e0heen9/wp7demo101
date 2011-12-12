@@ -6,40 +6,64 @@
     xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="768"
     FontFamily="{StaticResource PhoneFontFamilyNormal}"
     FontSize="{StaticResource PhoneFontSizeNormal}"
     Foreground="{StaticResource PhoneForegroundBrush}"
-    SupportedOrientations="Portrait" Orientation="Portrait"
+    SupportedOrientations="PortraitOrLandscape" Orientation="Portrait"
+    mc:Ignorable="d" d:DesignHeight="696" d:DesignWidth="480"
     shell:SystemTray.IsVisible="True">
 
-    <!--LayoutRoot is the root grid where all page content is placed-->
-    <Grid x:Name="LayoutRoot" Background="Transparent">
+    <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
-            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="4*"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="3*"/>
         </Grid.RowDefinitions>
-
-        <!--TitlePanel contains the name of the application and page title-->
-        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
-            <TextBlock x:Name="ApplicationTitle" Text="MY APPLICATION" Style="{StaticResource PhoneTextNormalStyle}"/>
-            <TextBlock x:Name="PageTitle" Text="page name" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        
+        <StackPanel Grid.Row="0" Grid.ColumnSpan="2" Margin="24,16,0,12">
+            <TextBlock Text="STOPWATCH" Margin="-1,0,0,0"
+                       FontFamily="{StaticResource PhoneFontFamilySemiBold}"
+                       FontSize="{StaticResource PhoneFontSizeMedium}"/>
         </StackPanel>
-
-        <!--ContentPanel - place additional content here-->
-        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0"></Grid>
+        
+        <TextBlock Grid.Row="1" Grid.ColumnSpan="2" Text="current lap"
+                   HorizontalAlignment="Right"
+                   Style="{StaticResource PhoneTextSubtleStyle}"/>
+        
+        <ProgressBar x:Name="LapProgressBar" Grid.Row="3" Grid.ColumnSpan="2"
+                     VerticalAlignment="Top"/>
+        
+        <Button Name="StartBtn" Grid.Row="4" Content="start" Margin="12,0,0,0"
+                Foreground="White" BorderBrush="{StaticResource PhoneAccentBrush}"
+                Background="{StaticResource PhoneAccentBrush}"
+                Click="StartBtn_Click"/>
+        <Button Name="StopBtn" Grid.Row="4" Content="stop" Margin="12,0,0,0"
+                Foreground="White" BorderBrush="#E51400" Background="#E51400"
+                Click="StopBtn_Click" Visibility="Collapsed"/>
+        <Button Name="ResetBtn" Grid.Row="4" Grid.Column="1" Content="reset"
+                IsEnabled="False" Margin="0,0,12,0" Click="ResetBtn_Click"
+                />
+        <Button Name="LapButton" Grid.Row="4" Grid.Column="1" Content="lap"
+                Margin="0,0,12,0" Visibility="Collapsed"/>
+                
+        <ScrollViewer Grid.Row="5" Grid.ColumnSpan="2" FontSize="{StaticResource PhoneFontSizeLarge}">
+            <StackPanel x:Name="LapsStackPanel"/>
+            
+        </ScrollViewer>
     </Grid>
  
     <!--Sample code showing usage of ApplicationBar-->
-    <!--<phone:PhoneApplicationPage.ApplicationBar>
+    <phone:PhoneApplicationPage.ApplicationBar>
         <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
-            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button1.png" Text="Button 1"/>
-            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button2.png" Text="Button 2"/>
-            <shell:ApplicationBar.MenuItems>
-                <shell:ApplicationBarMenuItem Text="MenuItem 1"/>
-                <shell:ApplicationBarMenuItem Text="MenuItem 2"/>
-            </shell:ApplicationBar.MenuItems>
+            <shell:ApplicationBarIconButton IconUri="/Shared/Images/appbar.orientationUnlocked.png" Text="锁屏"/>
         </shell:ApplicationBar>
-    </phone:PhoneApplicationPage.ApplicationBar>-->
+    </phone:PhoneApplicationPage.ApplicationBar>
 
 </phone:PhoneApplicationPage>
