@@ -52,8 +52,8 @@ namespace _4_StopWatch
             this.SupportedOrientations = this.savedSupportedOrientations.Value;
             if (this.SupportedOrientations != SupportedPageOrientation.PortraitOrLandscape)
             {
-                this.orientationLockBtn.Text = "unlock";
-                this.orientationLockBtn.IconUri = new Uri("/Shared/Images/appbar.orientationLocked.png");
+                this.orientationLockBtn.Text = "解锁";
+                this.orientationLockBtn.IconUri = new Uri("/Shared/Images/appbar.orientationLocked.png",UriKind.Relative);
             }
             if (this.wasRunning.Value) Start();
         }
@@ -177,5 +177,8 @@ namespace _4_StopWatch
         {
             return((this.Orientation & orientation) == orientation);
         }
+
+     
+      
     }
 }

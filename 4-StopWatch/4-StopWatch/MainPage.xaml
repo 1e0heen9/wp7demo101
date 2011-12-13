@@ -60,7 +60,7 @@
         <Button Name="ResetBtn" Grid.Row="4" Grid.Column="1" Content="reset"
                 IsEnabled="False" Margin="0,0,12,0" Click="ResetBtn_Click"
                 />
-        <Button Name="LapBtn" Grid.Row="4" Grid.Column="1" Content="lap"
+        <Button Name="LapBtn" Grid.Row="4" Grid.Column="1" Content="lap" Click="LapBtn_Click"
                 Margin="0,0,12,0" Visibility="Collapsed"/>
                 
         <ScrollViewer Grid.Row="5" Grid.ColumnSpan="2" FontSize="{StaticResource PhoneFontSizeLarge}">
@@ -72,7 +72,7 @@
     <!--Sample code showing usage of ApplicationBar-->
     <phone:PhoneApplicationPage.ApplicationBar>
         <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
-            <shell:ApplicationBarIconButton IconUri="/Shared/Images/appbar.orientationUnlocked.png" Text="锁屏"/>
+            <shell:ApplicationBarIconButton IconUri="/Shared/Images/appbar.orientationUnlocked.png" Text="锁屏" Click="OrienttationLockBtn_Click"/>
         </shell:ApplicationBar>
     </phone:PhoneApplicationPage.ApplicationBar>
 
