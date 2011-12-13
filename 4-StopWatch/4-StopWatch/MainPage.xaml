@@ -11,6 +11,7 @@
     Foreground="{StaticResource PhoneForegroundBrush}"
     SupportedOrientations="PortraitOrLandscape" Orientation="Portrait"
     mc:Ignorable="d" d:DesignHeight="696" d:DesignWidth="480"
+    xmlns:local="clr-namespace:_4_StopWatch"
     shell:SystemTray.IsVisible="True">
 
     <Grid>
@@ -37,9 +38,18 @@
                    HorizontalAlignment="Right"
                    Style="{StaticResource PhoneTextSubtleStyle}"/>
         
+        
+        <local:TimeSpanDisplay x:Name="CurrentLapTimeDisplay" Grid.Row="2"
+                               Grid.ColumnSpan="2" DigitWidth="18" 
+                               HorizontalAlignment="Right" Margin="0,0,12,0"
+                               FontSize="{StaticResource PhoneFontSizeLarge}">
+        </local:TimeSpanDisplay>
+        <local:TimeSpanDisplay x:Name="TotalTimeDisplay" Grid.Row="3"
+                               Grid.ColumnSpan="2" DigitWidth="67"
+                               HorizontalAlignment="Center" FontFamily="Segoe WP Black"
+                               FontSize="108"></local:TimeSpanDisplay>
         <ProgressBar x:Name="LapProgressBar" Grid.Row="3" Grid.ColumnSpan="2"
                      VerticalAlignment="Top"/>
-        
         <Button Name="StartBtn" Grid.Row="4" Content="start" Margin="12,0,0,0"
                 Foreground="White" BorderBrush="{StaticResource PhoneAccentBrush}"
                 Background="{StaticResource PhoneAccentBrush}"
@@ -50,7 +60,7 @@
         <Button Name="ResetBtn" Grid.Row="4" Grid.Column="1" Content="reset"
                 IsEnabled="False" Margin="0,0,12,0" Click="ResetBtn_Click"
                 />
-        <Button Name="LapButton" Grid.Row="4" Grid.Column="1" Content="lap"
+        <Button Name="LapBtn" Grid.Row="4" Grid.Column="1" Content="lap"
                 Margin="0,0,12,0" Visibility="Collapsed"/>
                 
         <ScrollViewer Grid.Row="5" Grid.ColumnSpan="2" FontSize="{StaticResource PhoneFontSizeLarge}">

@@ -11,3 +11,4 @@ G:\wp7_ws\wp7demo101\4-StopWatch\4-StopWatch\obj\Debug\4-StopWatch.pdb
 G:\wp7_ws\wp7demo101\4-StopWatch\4-StopWatch\Bin\Debug\AppManifest.xaml
 G:\wp7_ws\wp7demo101\4-StopWatch\4-StopWatch\Bin\Debug\_4_StopWatch.xap
 G:\wp7_ws\wp7demo101\4-StopWatch\4-StopWatch\obj\Debug\XapCacheFile.xml
+G:\wp7_ws\wp7demo101\4-StopWatch\4-StopWatch\obj\Debug\TimeSpanDisplay.g.i.cs
