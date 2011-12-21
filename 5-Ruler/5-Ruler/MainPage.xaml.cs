@@ -20,5 +20,12 @@ namespace _5_Ruler
         {
             InitializeComponent();
         }
+
+        void InteractiveCanvas_MouseTapOrDrag(EventArgs e) { }
+
+        private void LeftBtn_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

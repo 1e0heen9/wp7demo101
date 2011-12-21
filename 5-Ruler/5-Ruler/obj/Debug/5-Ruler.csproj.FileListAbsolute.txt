@@ -1,0 +1,13 @@
+G:\wp7_ws\wp7demo101\5-Ruler\5-Ruler\Bin\Debug\ApplicationIcon.png
+G:\wp7_ws\wp7demo101\5-Ruler\5-Ruler\Bin\Debug\Background.png
+G:\wp7_ws\wp7demo101\5-Ruler\5-Ruler\Bin\Debug\5-Ruler.dll
+G:\wp7_ws\wp7demo101\5-Ruler\5-Ruler\Bin\Debug\5-Ruler.pdb
+G:\wp7_ws\wp7demo101\5-Ruler\5-Ruler\Bin\Debug\AppManifest.xaml
+G:\wp7_ws\wp7demo101\5-Ruler\5-Ruler\Bin\Debug\_5_Ruler.xap
+G:\wp7_ws\wp7demo101\5-Ruler\5-Ruler\obj\Debug\ResolveAssemblyReference.cache
+G:\wp7_ws\wp7demo101\5-Ruler\5-Ruler\obj\Debug\App.g.i.cs
+G:\wp7_ws\wp7demo101\5-Ruler\5-Ruler\obj\Debug\MainPage.g.i.cs
+G:\wp7_ws\wp7demo101\5-Ruler\5-Ruler\obj\Debug\5-Ruler.g.resources
+G:\wp7_ws\wp7demo101\5-Ruler\5-Ruler\obj\Debug\5-Ruler.dll
+G:\wp7_ws\wp7demo101\5-Ruler\5-Ruler\obj\Debug\5-Ruler.pdb
+G:\wp7_ws\wp7demo101\5-Ruler\5-Ruler\obj\Debug\XapCacheFile.xml
