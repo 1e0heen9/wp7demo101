@@ -1,0 +1,20 @@
+﻿<xapCache source="G:\wp7_ws\wp7demo101\44-BoxingGlove\Bin\Debug\_44_BoxingGlove.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="2012/1/17 23:11:15">
+  <file source="G:\wp7_ws\wp7demo101\44-BoxingGlove\Bin\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="2012/1/17 22:42:18" />
+  <file source="G:\wp7_ws\wp7demo101\44-BoxingGlove\Background.png" archivePath="Background.png" lastWriteTime="2012/1/17 20:08:01" />
+  <file source="G:\wp7_ws\wp7demo101\44-BoxingGlove\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="2012/1/17 20:08:01" />
+  <file source="G:\wp7_ws\wp7demo101\44-BoxingGlove\obj\Debug\44-BoxingGlove.dll" archivePath="44-BoxingGlove.dll" lastWriteTime="2012/1/17 23:11:15" />
+  <file source="G:\wp7_ws\wp7demo101\44-BoxingGlove\Audio\dingDingDing.wav" archivePath="Audio\dingDingDing.wav" lastWriteTime="2012/1/17 20:07:18" />
+  <file source="G:\wp7_ws\wp7demo101\44-BoxingGlove\Audio\grunt1.wav" archivePath="Audio\grunt1.wav" lastWriteTime="2012/1/17 20:07:18" />
+  <file source="G:\wp7_ws\wp7demo101\44-BoxingGlove\Audio\grunt2.wav" archivePath="Audio\grunt2.wav" lastWriteTime="2012/1/17 20:07:18" />
+  <file source="G:\wp7_ws\wp7demo101\44-BoxingGlove\Audio\grunt3.wav" archivePath="Audio\grunt3.wav" lastWriteTime="2012/1/17 20:07:18" />
+  <file source="G:\wp7_ws\wp7demo101\44-BoxingGlove\Audio\punch1.wav" archivePath="Audio\punch1.wav" lastWriteTime="2012/1/17 20:07:18" />
+  <file source="G:\wp7_ws\wp7demo101\44-BoxingGlove\Audio\punch2.wav" archivePath="Audio\punch2.wav" lastWriteTime="2012/1/17 20:07:18" />
+  <file source="G:\wp7_ws\wp7demo101\44-BoxingGlove\Audio\punch3.wav" archivePath="Audio\punch3.wav" lastWriteTime="2012/1/17 20:07:18" />
+  <file source="G:\wp7_ws\wp7demo101\44-BoxingGlove\Audio\punch4.wav" archivePath="Audio\punch4.wav" lastWriteTime="2012/1/17 20:07:18" />
+  <file source="G:\wp7_ws\wp7demo101\44-BoxingGlove\Images\appbar.bell.png" archivePath="Images\appbar.bell.png" lastWriteTime="2012/1/17 20:07:27" />
+  <file source="G:\wp7_ws\wp7demo101\44-BoxingGlove\Images\appbar.leftHand.png" archivePath="Images\appbar.leftHand.png" lastWriteTime="2012/1/17 20:07:27" />
+  <file source="G:\wp7_ws\wp7demo101\44-BoxingGlove\Images\appbar.rightHand.png" archivePath="Images\appbar.rightHand.png" lastWriteTime="2012/1/17 20:07:27" />
+  <file source="G:\wp7_ws\wp7demo101\44-BoxingGlove\Images\hand.png" archivePath="Images\hand.png" lastWriteTime="2012/1/17 20:07:27" />
+  <file source="G:\wp7_ws\wp7demo101\44-BoxingGlove\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="2012/1/17 20:05:13" />
+  <file source="G:\wp7_ws\wp7demo101\44-BoxingGlove\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="2012/1/17 21:23:27" />
+</xapCache>

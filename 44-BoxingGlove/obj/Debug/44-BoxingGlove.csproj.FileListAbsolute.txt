@@ -1,0 +1,14 @@
+G:\wp7_ws\wp7demo101\44-BoxingGlove\Bin\Debug\ApplicationIcon.png
+G:\wp7_ws\wp7demo101\44-BoxingGlove\Bin\Debug\Background.png
+G:\wp7_ws\wp7demo101\44-BoxingGlove\Bin\Debug\44-BoxingGlove.dll
+G:\wp7_ws\wp7demo101\44-BoxingGlove\Bin\Debug\44-BoxingGlove.pdb
+G:\wp7_ws\wp7demo101\44-BoxingGlove\Bin\Debug\AppManifest.xaml
+G:\wp7_ws\wp7demo101\44-BoxingGlove\Bin\Debug\_44_BoxingGlove.xap
+G:\wp7_ws\wp7demo101\44-BoxingGlove\obj\Debug\ResolveAssemblyReference.cache
+G:\wp7_ws\wp7demo101\44-BoxingGlove\obj\Debug\App.g.i.cs
+G:\wp7_ws\wp7demo101\44-BoxingGlove\obj\Debug\MainPage.g.i.cs
+G:\wp7_ws\wp7demo101\44-BoxingGlove\obj\Debug\44-BoxingGlove.g.resources
+G:\wp7_ws\wp7demo101\44-BoxingGlove\obj\Debug\44-BoxingGlove.dll
+G:\wp7_ws\wp7demo101\44-BoxingGlove\obj\Debug\44-BoxingGlove.pdb
+G:\wp7_ws\wp7demo101\44-BoxingGlove\obj\Debug\XapCacheFile.xml
+G:\wp7_ws\wp7demo101\44-BoxingGlove\obj\Debug\Settings.g.i.cs
