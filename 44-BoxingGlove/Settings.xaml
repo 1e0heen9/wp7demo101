@@ -25,9 +25,17 @@
             <TextBlock x:Name="ApplicationTitle" Text="MY APPLICATION" Style="{StaticResource PhoneTextNormalStyle}"/>
             <TextBlock x:Name="PageTitle" Text="page name" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
         </StackPanel>
-
-        <!--ContentPanel - place additional content here-->
-        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0"></Grid>
+        <ScrollViewer Grid.Row="1"  >
+            <StackPanel Margin="{StaticResource PhoneMargin}">
+                <TextBlock Text="test"></TextBlock>
+                <Slider x:Name="StrengSlider" Minimum=".1" Maximum="1.9" 
+                    LargeChange=".1" 
+                    Value="{Binding Threshold,Mode=TwoWay,ElementName=Page}"/>
+            </StackPanel>
+          
+        
+        </ScrollViewer>
+        
     </Grid>
  
     <!--Sample code showing usage of ApplicationBar-->
